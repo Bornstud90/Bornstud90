@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Bornstud90
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on development of python based platform
+- 📫 How to reach me : mail me bornstud90@gmail.com
+
+<!---
+Bornstud90/Bornstud90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
